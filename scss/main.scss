@@ -106,7 +106,7 @@ main {
 //Work/Projects
 .projects {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    //grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
     img {
         width: 100%;
